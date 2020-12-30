@@ -19,8 +19,8 @@ header{
 }
 
 footer{
-  width: 450px;
-  height: 20vh;
+  width: 100%;
+  height: 80px;
   color: white;
   background-color: black;
 }
