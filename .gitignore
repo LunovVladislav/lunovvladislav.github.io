@@ -1,0 +1,11 @@
+/.DS_Store
+/about
+/.pnp
+.pnp.js
+**/.DS_Store
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/notes.txt

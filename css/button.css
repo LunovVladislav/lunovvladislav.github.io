@@ -1,0 +1,45 @@
+.div1{
+	position: relative;
+	box-sizing: border-box;
+	width: 100px;
+	height: 50px;
+	margin-top: 20px;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 10px;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.div2{
+	position: absolute;
+	top: 150px;
+	left: -100px;
+	width: 500px;
+	height: 300px;
+	background: linear-gradient(0deg, #1c91eb, #08fce4);
+	transform: rotate(25deg);
+	transition: 0.5s;
+	z-index: -10;
+}
+
+.div1:hover .div2{
+	top: -50px;
+	left: -70px;
+}
+
+.div1 > a{
+	display: block;
+	height: 100%;
+	width: 100%;
+	padding-top: 9px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #05204A;
+	font-family: 'Baloo Tammudu 2', cursive;
+	transition: color 1s;
+}
+
+.div1 > a:hover{
+	color: white;
+}

@@ -1,0 +1,21 @@
+footer{
+  width: 100%;
+  height: 80px;
+  color: white;
+  background-color: black;
+  margin-top: 100%;
+}
+footer > a{
+  margin-left: 1.5%;
+}
+
+#github{
+  width: 65px;
+}
+
+#dnl{
+  margin-left: 3%;
+}
+.description{
+  margin-left: 15%;
+}
