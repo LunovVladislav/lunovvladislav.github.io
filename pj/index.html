@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./bootstrap.min.css">
+    <link rel="stylesheet" href="./index.css">
+    <title>App</title>
+</head>
+<body>
+    <script src="./vue_prod.js"></script>
+    <main id="app">
+        <center>
+            <br>
+            <br>
+            <br>
+            <h1>a = <input type="text" placeholder="0" v-model="a"></h1>
+            <h1>b = <input type="text" placeholder="0" v-model="b"></h1>
+            <h1>c = <input type="text" placeholder="0" v-model="c"></h1>
+            <br>
+            <br>
+            <br>
+            <h1>a*(4*b-3*c)</h1>
+            <br>
+            <br>
+            <h1>Result: {{ res }}</h1>
+            <br>
+            <button class="btn btn-warning" v-on:click="reset()">Reset</button>
+        </center>
+    </main>
+    <script src="./index.js"></script>
+</body>
+</html>
