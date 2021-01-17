@@ -10,16 +10,6 @@ body{
   width: 65px;
 }
 
-.and2{
-  width: 300px;
-}
-
-@media screen and (min-width: 900px) {
-  .and2{
-    width: 400px;
-  }
-}
-
 .and{
   width: 20%;
 }
