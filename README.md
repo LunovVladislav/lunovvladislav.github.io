@@ -1,1 +1,0 @@
-# lunovvladislav.github.io
