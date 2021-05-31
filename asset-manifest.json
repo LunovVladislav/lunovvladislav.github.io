@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2e22fa9e.chunk.css",
-    "main.js": "/static/js/main.65d4e88e.chunk.js",
-    "main.js.map": "/static/js/main.65d4e88e.chunk.js.map",
+    "main.js": "/static/js/main.b0b541ed.chunk.js",
+    "main.js.map": "/static/js/main.b0b541ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0422bcb0.js",
     "runtime-main.js.map": "/static/js/runtime-main.0422bcb0.js.map",
-    "static/js/2.8faa8a37.chunk.js": "/static/js/2.8faa8a37.chunk.js",
-    "static/js/2.8faa8a37.chunk.js.map": "/static/js/2.8faa8a37.chunk.js.map",
+    "static/js/2.1cec4683.chunk.js": "/static/js/2.1cec4683.chunk.js",
+    "static/js/2.1cec4683.chunk.js.map": "/static/js/2.1cec4683.chunk.js.map",
     "static/js/3.6556dc73.chunk.js": "/static/js/3.6556dc73.chunk.js",
     "static/js/3.6556dc73.chunk.js.map": "/static/js/3.6556dc73.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.2e22fa9e.chunk.css.map": "/static/css/main.2e22fa9e.chunk.css.map",
-    "static/js/2.8faa8a37.chunk.js.LICENSE.txt": "/static/js/2.8faa8a37.chunk.js.LICENSE.txt",
+    "static/js/2.1cec4683.chunk.js.LICENSE.txt": "/static/js/2.1cec4683.chunk.js.LICENSE.txt",
     "static/media/PhpMyAdmin.a6bd398d.png": "/static/media/PhpMyAdmin.a6bd398d.png",
     "static/media/android.289e392d.svg": "/static/media/android.289e392d.svg",
     "static/media/burger.a308cf5b.svg": "/static/media/burger.a308cf5b.svg",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0422bcb0.js",
-    "static/js/2.8faa8a37.chunk.js",
+    "static/js/2.1cec4683.chunk.js",
     "static/css/main.2e22fa9e.chunk.css",
-    "static/js/main.65d4e88e.chunk.js"
+    "static/js/main.b0b541ed.chunk.js"
   ]
 }
