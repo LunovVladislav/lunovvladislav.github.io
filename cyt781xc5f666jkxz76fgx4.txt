@@ -1,1 +1,1 @@
-{"work": "true", "errorText": ""}
+{"work": "false", "errorText": "Test", "errorColor": "#008a19"}
